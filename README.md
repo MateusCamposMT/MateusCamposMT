@@ -14,6 +14,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/57/38/9f/57389ff3bcf2a5b898519fd8c5492390.jpg?width=676&height=676">
 </div><br/>
 
 Apaixonado por Desenvolvimento Web, Apreciando cada instante o que a programação é capaz de fazer para melhorar e facilitar a vida das pessoas.
