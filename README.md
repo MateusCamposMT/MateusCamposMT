@@ -7,6 +7,7 @@
 </div><br>
 
 ![MateusCamposMT GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusCamposMT&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCamposMT&show_icons=true&theme=dracula&count_private=true)](https://github.com/mateuscamposmt/github-readme-stats)
 
 ## Tecnologias que eu estou utilizando
 
